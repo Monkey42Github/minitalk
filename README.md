@@ -58,3 +58,4 @@ cd bin
 ./client SERVER_PID "Hello, Minitalk!"
 ```
 ## Contributors
+[pschemit](https://github.com/pschemit)
